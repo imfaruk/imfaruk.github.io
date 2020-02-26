@@ -8,38 +8,37 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: I am Faruk                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Developer | Dreamer.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
-
+  Ruby on Rails Developer,
+  Vue JS Developer,
+  Freelancer
 # Replace with your domain, e.g. 'https://username.github.io'
 url: 'https://imfaruk.github.io'
 
-author: your_full_name                  # change to your full name
+author: Faruk Hossain                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: imfaruk             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: iamfaruk00            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Faruk Hossain                  # it will shows as the copyright owner in Footer
+  email: farukncse@gmail.com.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/imfaruk00      # change to your twitter homepage
+    - https://github.com/imfaruk       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.facebook.com/imfaruk00
+    # - https://www.linkedin.com/in/imfaruk
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -63,8 +62,8 @@ google_analytics:
 
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true  # boolean type, the global switch for posts comments.
+  shortname: imfaruk    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
 # Prefer color scheme setting, available values:
@@ -79,7 +78,7 @@ disqus:
 theme_mode: dual
 
 # boolean type, global switch for ToC in posts.
-toc: true
+toc: false
 
 paginate: 10
 
