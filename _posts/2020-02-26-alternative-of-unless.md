@@ -4,7 +4,7 @@ date: 2020-02-26 07:50:00 +0800
 categories: [Programming, Ruby]
 tags: [Ruby, Trick]
 seo:
-  date_modified: 2020-02-27 07:04:42 +0800
+  date_modified: 2020-02-27 07:58:42 +0800
 ---
 
 ## Background
