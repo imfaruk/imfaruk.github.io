@@ -1,8 +1,10 @@
 ---
-title: "Alternative Of Unless"
+title: Alternative Of Unless
 date: 2019-08-08 14:10:00 +0800
 categories: [Programming, Ruby]
 tags: [Ruby, Trick]
+seo:
+  date_modified: 2020-02-27 00:34:22 +0800
 ---
 
 ## Background
