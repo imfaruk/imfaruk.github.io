@@ -21,4 +21,4 @@ or
 go_outside if ! raining
 ```
 
-If you did not then don't be ashamed because I also did not know few days ago even aftr programming with ruby for over 5 years.
+If you did not then don't be ashamed because I also did not know few days ago even after programming with ruby for over 5 years.
