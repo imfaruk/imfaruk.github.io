@@ -4,7 +4,7 @@ date: 2020-02-26 07:50:00 +0800
 categories: [Programming, Ruby]
 tags: [Ruby, Trick]
 seo:
-  date_modified: 2020-02-27 07:58:42 +0800
+  date_modified: 2020-02-28 07:42:57 +0800
 ---
 As a non native english speaker I always find it hard to read statement with `unless`.  I pause for a while to get my head around it everytime I read `unless`. `if !` also feels the same to me. Turns out there is a much more readable alternative.
 
