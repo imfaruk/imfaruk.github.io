@@ -8,4 +8,8 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+I am Faruk. `Faruk` is an Arabic word which means someone who differenciate between truth and false. A perfect name for a programmer ha ha ha.
+
+I have been working with Rails for over 5 years. I am from Bangladesh but right I am living in Kuala Lumpur(Malaysia) and working for [INSCALE GLOBAL](https://www.inscale.net/).
+
+I love writing clean code and playing with my daughter.
