@@ -23,7 +23,7 @@ timezone: Asia/Dhaka
 
 title: I am Faruk                          # the main title
 
-tagline: Dreamer >| Dreamer   # it will display as the sub-title
+tagline: Dreamer >| Developer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Programming, Ruby, Ruby on Rails, Web Development
